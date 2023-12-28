@@ -1,7 +1,7 @@
 /* eslint-disable react/prop-types */
 /* eslint-disable react-hooks/rules-of-hooks */
 import { useState } from "react";
-import  "./createGroupPopup.css";
+import  "./CreateGroupPopup.css";
 
 const CreateGroupPopup = ({groupParentName , setGroupParentName, onClose})=>{
     // eslint-disable-next-line react-hooks/rules-of-hooks
