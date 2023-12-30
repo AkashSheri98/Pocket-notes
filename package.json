@@ -1,7 +1,7 @@
 {
-  "homepage": "hhtps://AkashSheri98.github.io/",
+  "homepage": "hhtps://akashSheri98.github.io/",
   "name": "pocketnotes",
-  "private": false,
+  "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
